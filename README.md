@@ -1,2 +1,4 @@
-# practice-mobile-app
+# kotlin-kmm-app
+
+- Kotlin Multiplatform Mobile app
 
